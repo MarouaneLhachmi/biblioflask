@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+venv/
+.venv/
+instance/
+*.db
+*.sqlite
+.env
+.vercel
+biblio/users.json
+biblio/notifications.json
